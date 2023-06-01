@@ -1,0 +1,20 @@
+
+
+body{
+    background-color: #3B7ECD;
+    font: normal 20px Arial;
+}
+h1, footer{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+section{
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    line-height: 28px;
+    padding: 20px 0 10px 10px;
+    box-shadow: 3px 3px 10px  black;
+}
